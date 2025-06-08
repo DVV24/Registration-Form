@@ -17,8 +17,6 @@ A clean and responsive form validation web page using **HTML, CSS, and JavaScrip
 
 ---
 
----
-
 ## 💡 Validation Criteria
 
 | Field     | Condition                                                                 |
@@ -46,7 +44,7 @@ A clean and responsive form validation web page using **HTML, CSS, and JavaScrip
 ---
 ## 📸 Live Demo & GitHub
 
-🌐 **Live Demo**: [Click here to view](https://yourusername.github.io/your-repo/)  
-📂 **GitHub Repository**: [github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+🌐 **Live Demo**: https://dvv24.github.io/RegistrationForm1/
+📂 **GitHub Repository**: https://github.com/DVV24/RegistrationForm1
 
 
